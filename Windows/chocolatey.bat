@@ -19,3 +19,4 @@ choco install thunderbird -y
 choco install itunes -y
 choco install procexp -y
 choco install k-litecodecpackfull -y
+choco install calibre -y
