@@ -30,3 +30,6 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 #install skype for linux
 sudo apt-get install skypeforlinux
+
+#install XdoTool (needed for keyboard shortcuts that type out emails)
+sudo apt-get install xdotool 
