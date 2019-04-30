@@ -33,3 +33,6 @@ sudo apt-get install skypeforlinux
 
 #install XdoTool (needed for keyboard shortcuts that type out emails)
 sudo apt-get install xdotool 
+
+#install steam 
+sudo apt-get install steam-installer -y
