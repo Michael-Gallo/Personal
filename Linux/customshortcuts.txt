@@ -1,0 +1,3 @@
+michael.gallo@batcomonline.com  = ALT + Y
+michael.a.gallo95@gmail.com  = ALT + O
+terminal = Super(winkey) + R
