@@ -29,10 +29,12 @@ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 #install skype for linux
-sudo apt-get install skypeforlinux
+sudo apt-get install skypeforlinux -y
 
 #install XdoTool (needed for keyboard shortcuts that type out emails)
-sudo apt-get install xdotool 
+sudo apt-get install xdotool -y
 
 #install steam 
 sudo apt-get install steam-installer -y
+#instal imwheel
+sudo apt-get install imwheel -y
