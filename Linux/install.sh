@@ -22,7 +22,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 
 #Install packages now that all repos are set
-apps = "sublime-text brave-browser brave-keyring skypeforlinux xdotool steam-installer imwheel terminator"
+apps="sublime-text brave-browser brave-keyring skypeforlinux xdotool steam-installer imwheel terminator dxvk lutris"
 
 for app in $apps
 do
